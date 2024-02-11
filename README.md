@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Ehd Silvio</h1>
-<h3 align="center">A aspiring Data Engineer in Philippines</h3>
+<h3 align="center">An aspiring Data Engineer in Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjhaw&label=Profile%20views&color=0e75b6&style=flat" alt="ninjhaw" /> </p>
 
