@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshuaehd.silvio.37@gmail.com**
 
-- ⚡ Fun fact **I am friendly**
+- ⚡ Fun fact **I am aggressive haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
