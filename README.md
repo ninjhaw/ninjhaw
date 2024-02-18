@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [End-to-end Data Project](https://github.com/ninjhaw/DE_Project)
 
-- 🌱 I’m currently learning **Cloud Services, Docker, SSIS**
+- 🌱 I’m currently learning **Cloud Services, Docker, SSIS, Django Frameworks**
 
 - 🤝 I’m looking for help with **Big Data, Data Warehouse, Data Lakehouses**
 
